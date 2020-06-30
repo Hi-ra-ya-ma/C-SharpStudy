@@ -24,3 +24,12 @@ public class Product
         return Price + GetTax();
     }
 }
+
+public class Test
+{
+    public void main(string[] arg)
+    {
+        var dorayaki = new Product(98, "どら焼き", 210);
+        Console.WriteLine(dorayaki.GetTax());
+    }
+}
