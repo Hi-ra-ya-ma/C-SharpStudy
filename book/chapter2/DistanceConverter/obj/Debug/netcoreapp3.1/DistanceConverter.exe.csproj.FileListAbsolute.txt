@@ -1,0 +1,13 @@
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/bin/Debug/netcoreapp3.1/DistanceConverter.exe
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/bin/Debug/netcoreapp3.1/DistanceConverter.exe.deps.json
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/bin/Debug/netcoreapp3.1/DistanceConverter.exe.runtimeconfig.json
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/bin/Debug/netcoreapp3.1/DistanceConverter.exe.runtimeconfig.dev.json
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/bin/Debug/netcoreapp3.1/DistanceConverter.exe.dll
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/bin/Debug/netcoreapp3.1/DistanceConverter.exe.pdb
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/obj/Debug/netcoreapp3.1/DistanceConverter.exe.csprojAssemblyReference.cache
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/obj/Debug/netcoreapp3.1/DistanceConverter.exe.AssemblyInfoInputs.cache
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/obj/Debug/netcoreapp3.1/DistanceConverter.exe.AssemblyInfo.cs
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/obj/Debug/netcoreapp3.1/DistanceConverter.exe.csproj.CoreCompileInputs.cache
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/obj/Debug/netcoreapp3.1/DistanceConverter.exe.dll
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/obj/Debug/netcoreapp3.1/DistanceConverter.exe.pdb
+/workspaces/C-SharpStudy/book/chapter2/DistanceConverter/obj/Debug/netcoreapp3.1/DistanceConverter.exe.genruntimeconfig.cache
