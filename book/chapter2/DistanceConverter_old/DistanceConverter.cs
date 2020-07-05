@@ -7,5 +7,10 @@ namespace DistanceConverter
         {
             return feet * 0.3048;
         }
+
+        public double MeterToFeet(int meter)
+        {
+            return meter / 0.3048;
+        }
     }
 }
