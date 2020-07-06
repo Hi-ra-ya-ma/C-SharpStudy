@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7052171C-E6D9-4C5F-922C-91B58EEEACBB}|Default">
+  <MonoDevelop.Ide.ItemProperties.SalesSummaryProgram FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesSummaryProgram/Program.cs">
+    <Files>
+      <File FileName="SalesSummaryProgram/Program.cs" Line="9" Column="47" />
+      <File FileName="SalesSummaryProgram/Sale.cs" Line="13" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SalesSummaryProgram" expanded="True">
+            <Node name="SalesSummaryProgram" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
